@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bda2b6e1-b335-4e77-95a5-6f92599612f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anagram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +34,7 @@
     <property name="ignore_missing_gitignore" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.palindrome">
+  <component name="RunManager" selected="Python.anagram">
     <configuration name="FizzBuzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sandbox" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -55,7 +56,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="card" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="anagram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sandbox" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,7 +68,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/card.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/anagram.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.anagram" />
         <item itemvalue="Python.palindrome" />
         <item itemvalue="Python.linear_search" />
         <item itemvalue="Python.FizzBuzz" />
         <item itemvalue="Python.queue" />
-        <item itemvalue="Python.card" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609248278545</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add palindrome.py">
+      <created>1609248613415</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609248613415</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -198,6 +206,7 @@
     <MESSAGE value="add queue.py" />
     <MESSAGE value="add FizzBuzz.py" />
     <MESSAGE value="add liner_search.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="add liner_search.py" />
+    <MESSAGE value="add palindrome.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="add palindrome.py" />
   </component>
 </project>
