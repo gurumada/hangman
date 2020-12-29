@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bda2b6e1-b335-4e77-95a5-6f92599612f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/count_characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +34,8 @@
     <property name="ignore_missing_gitignore" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.count_characters">
-    <configuration name="FizzBuzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Recursion">
+    <configuration name="Recursion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sandbox" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -46,7 +47,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FizzBuzz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Recursion" />
         <item itemvalue="Python.count_characters" />
         <item itemvalue="Python.anagram" />
         <item itemvalue="Python.palindrome" />
         <item itemvalue="Python.linear_search" />
-        <item itemvalue="Python.FizzBuzz" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609249054345</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add count_characters.py">
+      <created>1609249921953</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609249921953</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -214,6 +222,7 @@
     <MESSAGE value="add liner_search.py" />
     <MESSAGE value="add palindrome.py" />
     <MESSAGE value="add anagram.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="add anagram.py" />
+    <MESSAGE value="add count_characters.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="add count_characters.py" />
   </component>
 </project>
